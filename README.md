@@ -1,6 +1,19 @@
-# Sample Hardhat Project
+# 🔐 Blockchain File Sharing
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+A decentralized file sharing system built with Ethereum smart contracts and Hardhat. This project allows secure sharing of files on the blockchain and includes sample contract code, deployment scripts, and tests.
+
+## 📁 Features
+
+- Smart contract for secure file sharing
+- Hardhat setup with deployment and testing
+- Local blockchain node support
+
+## 🚀 Getting Started
+
+Install dependencies:
+```bash
+npm install
+
 
 Try running some of the following tasks:
 
